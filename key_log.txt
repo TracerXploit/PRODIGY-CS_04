@@ -1,0 +1,16 @@
+2024-07-27 14:16:37,779: Keylogger started...
+2024-07-27 14:16:39,500: Key pressed: f
+2024-07-27 14:16:39,583: Key released: 'f'
+2024-07-27 14:16:39,829: Key pressed: g
+2024-07-27 14:16:39,916: Key released: 'g'
+2024-07-27 14:16:40,180: Key pressed: h
+2024-07-27 14:16:40,259: Key released: 'h'
+2024-07-27 14:16:40,920: Key pressed: 1
+2024-07-27 14:16:41,054: Key released: '1'
+2024-07-27 14:16:41,284: Key pressed: 2
+2024-07-27 14:16:41,394: Key released: '2'
+2024-07-27 14:16:41,740: Key pressed: 3
+2024-07-27 14:16:41,819: Key released: '3'
+2024-07-27 14:16:42,498: Special key pressed: Key.esc
+2024-07-27 14:16:42,562: Key released: Key.esc
+2024-07-27 14:16:42,562: Keylogger stopped.
